@@ -1,0 +1,14 @@
+---
+:id: 104689058
+:submitters:
+- :name: Wenyu Pan
+  :email: pan.we@northeastern.edu
+- :name: Daniil Balagurov
+  :email: balagurov.d@northeastern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-12 04:46:58.229579000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-12-11 20:46:58.229579000 Z
+:status: processed
+:score: 100.0
